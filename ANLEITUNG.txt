@@ -1,0 +1,14 @@
+HARDWARE-MISSION – BNT KLASSE 11
+
+SO STARTEN SIE DAS SPIEL:
+1. ZIP-Datei herunterladen.
+2. Rechtsklick auf die ZIP-Datei -> Alle extrahieren.
+3. Die Datei index.html doppelt anklicken oder Rechtsklick -> Öffnen mit -> Microsoft Edge.
+
+SO AKTUALISIEREN SIE GITHUB PAGES:
+1. https://github.com/jyldyz0610/hardware-mission-bnt11 aufrufen.
+2. Die entpackte index.html hochladen und die bestehende Datei ersetzen.
+3. Änderungen bestätigen (Commit changes).
+4. Danach https://jyldyz0610.github.io/hardware-mission-bnt11/ öffnen.
+
+Wichtig: Die ZIP-Datei nicht direkt bei GitHub Pages hochladen; die darin enthaltene index.html verwenden.
